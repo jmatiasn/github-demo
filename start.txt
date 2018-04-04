@@ -3,4 +3,4 @@ Modified
 
 Rebased
 
-Alterado
+Conflito de alteração
