@@ -1,2 +1,3 @@
 # github-demo
-A simple demo project
+A simple demo project.
+Used as exam.
